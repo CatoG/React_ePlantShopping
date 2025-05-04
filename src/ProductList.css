@@ -188,6 +188,7 @@ body {
 
     
 }
+
 /* Add Media Query for responsiveness */
 @media (max-width: 768px) {
     .product-card {
@@ -249,4 +250,6 @@ body {
       .ul div {
         text-align: center; /* Align text to the center */
       }
+
+    
   }
