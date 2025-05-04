@@ -189,6 +189,8 @@ body {
     
 }
 
+.product-category-title {text-align: center;}
+
 /* Add Media Query for responsiveness */
 @media (max-width: 768px) {
     .product-card {
